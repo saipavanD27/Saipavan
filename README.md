@@ -22,7 +22,7 @@ Additionally, a **Banking Application (Console-based Java)** is included, which 
 #### 📱 Apple Service
 - Single microservice for Apple products.
 - Displays Apple product details and images.  
-  *(Add your Apple product images in `resources/static/images/apple/`)*
+ 
 ![Apple page](resources/static/images/apple/items.png)
 #### 📱 Samsung Services
 - Multiple microservices:
@@ -30,7 +30,7 @@ Additionally, a **Banking Application (Console-based Java)** is included, which 
   - **Samsung2**
   - **Samsung3**
 - Each provides Samsung product details.
-- Images can be placed in `resources/static/images/samsung/`.
+
 ![Samsung Ms2 page](resources/static/images/samsung/item2.png)
 ![Samsung Ms3 page](resources/static/images/samsung/item3.png)
 ---
