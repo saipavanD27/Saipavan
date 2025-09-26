@@ -11,18 +11,19 @@ Additionally, a **Banking Application (Console-based Java)** is included, which 
 - Acts as a **Service Registry**.
 - All microservices (Samsung, Samsung2, Samsung3, Apple, etc.) register with it.
 - Provides service discovery to ensure microservices communicate dynamically.
-
+![Eureka Server](resources/static/images/eureka/eureka.png)
 ### 2. **Amazon-Type Web Application**
 - Landing page with **two buttons**:
   - **Go to Apple**
   - **Go to Samsung**
+![Homepage](resources/static/images/home/home.png)
 - On selecting a brand, respective services are invoked.
 
 #### 📱 Apple Service
 - Single microservice for Apple products.
 - Displays Apple product details and images.  
   *(Add your Apple product images in `resources/static/images/apple/`)*
-
+![Apple page](resources/static/images/apple/items.png)
 #### 📱 Samsung Services
 - Multiple microservices:
   - **Samsung**
@@ -30,7 +31,8 @@ Additionally, a **Banking Application (Console-based Java)** is included, which 
   - **Samsung3**
 - Each provides Samsung product details.
 - Images can be placed in `resources/static/images/samsung/`.
-
+![Samsung Ms2 page](resources/static/images/samusung/item2.png)
+![Samsung Ms3 page](resources/static/images/samsung/item3.png)
 ---
 
 ### 3. **Banking Application (Java Console App)**
@@ -43,7 +45,11 @@ Additionally, a **Banking Application (Console-based Java)** is included, which 
   - Withdraw
   - Check Balance
 - No GUI — runs directly from the console.
-
+![banking page 1](resources/static/images/bankingApplication/img1.png)
+![banking page 2](resources/static/images/bankingApplication/img2.png)
+![banking page 3](resources/static/images/bankingApplication/img3.png)
+![banking page 4](resources/static/images/bankingApplication/img4.png)
+![banking page 5](resources/static/images/bankingApplication/img5.png)
 ---
 
 ## ⚙️ Tech Stack
