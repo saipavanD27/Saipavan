@@ -31,7 +31,7 @@ Additionally, a **Banking Application (Console-based Java)** is included, which 
   - **Samsung3**
 - Each provides Samsung product details.
 - Images can be placed in `resources/static/images/samsung/`.
-![Samsung Ms2 page](resources/static/images/samusung/item2.png)
+![Samsung Ms2 page](resources/static/images/samsung/item2.png)
 ![Samsung Ms3 page](resources/static/images/samsung/item3.png)
 ---
 
